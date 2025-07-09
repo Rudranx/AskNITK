@@ -1,7 +1,7 @@
 #  Interactive Chatbot
 
 video link(https://drive.google.com/drive/folders/1MaSaQrJEU7vK00vMDJ0FyDFwPnDvlbeW?usp=drive_link)
-# TOURIFY:NITK Interactive Chatbot
+# AskNITK Interactive Chatbot
 ## Project Overview
 An AI-powered chatbot designed to enhance the campus experience at NITK by providing comprehensive, real-time information about campus facilities, operating hours, and local travel recommendations.
 
